@@ -99,7 +99,7 @@
   "BROWSE_WEBSITE": "ブラウザで開く",
   "VIEW_ADMIN_PANEL": "アドミンパネルを開く",
   "QUIT": "終了",
-  "FAILED_TO_LOAD_PROJECT": "Failed to load the project :(",
+  "FAILED_TO_LOAD_PROJECT": "プロジェクトの読み込みに失敗しました :(",
   "LOADING_PROJECT": "プロジェクトを読み込んでいます ...",
   "INITIALIZING_LEKTOR": "Lektorを初期化しています ...",
   "QUIT_LEKTOR": "Lektorを終了する",
